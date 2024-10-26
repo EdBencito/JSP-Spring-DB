@@ -1,2 +1,4 @@
 # JSP-Spring-DB
-JSP Backend using springboot and postgres in a docker container
+JSP REST Backend Demonstration using SpringBoot + Docker container running Postgres to be used with the JSP frontend (https://github.com/EdBencito/JSP)
+
+Docker Container: https://hub.docker.com/r/esrbencito/jsp-db
